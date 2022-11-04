@@ -1,0 +1,21 @@
+.poppins-bold{
+    font-family: 'Poppins-Bold';
+}
+.poppins-regular{
+    font-family: 'Poppins-Regular';
+}
+.poppins-medium{
+    font-family: 'Poppins-Medium';
+}
+.text-cs{
+    color: #4D533C;
+}
+.w-45{
+    max-width: 45%;
+}
+.text-lc{
+    color: #B6C197;
+}
+.bg-contacts{
+    background-color: #444A34;
+}
